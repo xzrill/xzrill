@@ -1,21 +1,25 @@
 
-### Aktiviteter                                                                                                                          
-- 🌱 I am A newbie
+### Current Activities                                                                                                                        
+- 🌱 I am currently learning programming.
+- ✨ I hope you are satisfied with my results
+- 💰 Donate For Me [Sociabuzz](https://sociabuzz.com/xzrill14) 
   
 
 
-### Connect with me ☎️
-<h4 align="center">Visitor Count:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{xzrill}/count.svg" alt="xzrill :: Visitor's Count" /></p>
+### Connect with me ☎️                                                                                                   
+<h4 align="center">Visitor's Count :</h4>
 <p align="center"><img src="https://count.getloli.com/get/@xzrill-github-readme?theme=rule34" /></p>
 <p align="center">
+  <a href="https://instagram.com/xzrill17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://t.me/Xzrill"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/xzrill"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 
-
+    
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/xzrill"></a></p><img src="https://github-readme-stats.vercel.app/api?username=xzrill&show_icons=true&theme=chartreuse-dark">
-<p align="center"><a href="https://github.com/xzrill"></a></p><img src="https://streak-stats.demolab.com/?user=xzrill&theme=chartreuse-dark">
-<p align="center"><a href="https://github.com/xzrill"></a></p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzrill&theme=chartreuse-dark&layout=compact"> 
+<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/nazedev"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
 nothing
