@@ -1,3 +1,9 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=xzrill&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/xzrill)
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzrill&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" /></p>
 
 ### Current Activities                                                                                                                        
 - 🌱 I am currently learning programming.
