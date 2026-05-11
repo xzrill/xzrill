@@ -8,7 +8,7 @@
 ### Current Activities                                                                                                                        
 - 🌱 I am currently learning programming.
 - ✨ I hope you are satisfied with my results
-- 💰 Donate For Me [Sociabuzz](https://sociabuzz.com/xzrill14) 
+- 💰 Support Me [Sociabuzz](https://sociabuzz.com/xzrill14) 
   
 
 
