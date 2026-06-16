@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzrill&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" /></p>
 
-### Current Activities                                                                                                                        
+### Current Activities                                                                                                                    
 - 🌱 I am currently learning programming.
 - ✨ I hope you are satisfied with my results
 - 💰 Support Me [Sociabuzz](https://sociabuzz.com/xzrill14) 
@@ -23,9 +23,9 @@
     
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/nazedev"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/xzrill"><img src="https://github-readme-stats.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/xzrill"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/xzrill"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
 nothing
