@@ -23,9 +23,9 @@
     
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/xzrill"><img src="https://github-readme-stats.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/xzrill"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/xzrill"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/xzrill"><img src="https://github-readme-stats.vercel.app/api?username=xzrill&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/xzrill"><img src="https://streak-stats.demolab.com/?user=xzrill&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/xzrill"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzrill&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
 nothing
