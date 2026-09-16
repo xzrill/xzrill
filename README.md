@@ -1,28 +1,50 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=xzrill&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/xzrill)
+<div align="center">👋 Hi, I'm Xzrill
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Still+Learning+Programming;JavaScript+%F0%9F%9F%A8;Python+%F0%9F%90%8D;HTML+%F0%9F%8C%90;Building+Something+New..." alt="Typing Animation"><br><img src="https://skillicons.dev/icons?i=javascript,python,html" height="70"></div>---
 
+🧑‍💻 About Me
 
-### Current Activities                                                                                                                    
-- 🌱 I am currently learning programming.
-- ✨ I hope you are satisfied with my results
-- 💰 Support Me [Sociabuzz](https://sociabuzz.com/xzrill14) 
-  
+const xzrill = {
+    name: "Xzrill",
+    learning: [
+        "JavaScript",
+        "Python",
+        "HTML"
+    ],
+    status: "Still learning programming",
+    goal: "Build cool projects 🚀"
+};
 
+console.log("Hello World!");
 
-### Connect with me ☎️                                                                                                   
-<h4 align="center">Visitor's Count :</h4>
-<p align="center"><img src="https://count.getloli.com/get/@xzrill-github-readme?theme=rule34" /></p>
-<p align="center">
-  <a href="https://instagram.com/xzrill17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://t.me/Xzrill"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/xzrill"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+---
 
-    
-### Github Stats 🚀
+🛠️ Languages & Tools
 
-<p align="center"><a href="https://github.com/xzrill"><img src="https://github-readme-stats.vercel.app/api?username=xzrill&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/xzrill"><img src="https://streak-stats.demolab.com/?user=xzrill&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/xzrill"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzrill&theme=chartreuse-dark&layout=compact"></a></p> 
+<div align="center"><img src="https://skillicons.dev/icons?i=javascript,python,html,git,github,vscode" /></div>---
 
-### Repo Stats 🔭
-nothing
+📊 GitHub Statistics
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xzrill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzrill&layout=compact&theme=tokyonight&hide_border=true" width="48%"></div>---
+
+🔥 GitHub Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=Xzrill&theme=tokyonight&hide_border=true"></div>---
+
+🐍 My Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/Xzrill/Xzrill/output/github-contribution-grid-snake.svg" alt="Contribution Snake"></div>---
+
+📈 Activity Graph
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Xzrill&theme=tokyo-night&hide_border=true&area=true"></div>---
+
+👀 Profile Views
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Xzrill&label=Profile%20Views&style=flat"></div>---
+
+<div align="center">🌱 Still Learning • Still Building
+
+JavaScript 🟨 • Python 🐍 • HTML 🌐
+
+</div>
