@@ -2,9 +2,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzrill&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" /></p>
-
 ### Current Activities                                                                                                                    
 - 🌱 I am currently learning programming.
 - ✨ I hope you are satisfied with my results
