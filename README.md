@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://linktr.ee/xzrill">
-    <img src="https://img.shields.io/badge/Linktree-Visit-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://instagram.com/xzrill17">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
