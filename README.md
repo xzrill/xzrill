@@ -16,7 +16,7 @@
   <a href="https://linktr.ee/xzrill14">
     <img src="https://img.shields.io/badge/Linktree-Visit-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="LINK_INSTAGRAM">
+  <a href="https://instagram.com/xzrill17">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="LINK_TIKTOK">
