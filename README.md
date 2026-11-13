@@ -51,7 +51,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
 
 ---
