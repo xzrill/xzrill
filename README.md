@@ -13,17 +13,20 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linktr.ee/xzrill">
+  <a href="LINK_DISCORD">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://linktr.ee/xzrill">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
   <a href="https://instagram.com/xzrill17">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://tiktok.com/@username_20298">
-    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://sociabuzz.com/xzrill14">
-    <img src="https://img.shields.io/badge/Sociabuzz-Support-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sociabuzz-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>
 </p>
 
