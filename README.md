@@ -19,7 +19,7 @@
   <a href="https://instagram.com/xzrill17">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="LINK_TIKTOK">
+  <a href="https://tiktok.com/@username_20298">
     <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="LINK_SOCIABUZZ">
