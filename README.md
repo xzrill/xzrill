@@ -13,7 +13,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linktr.ee/xzrill14">
+  <a href="https://linktr.ee/xzrill">
     <img src="https://img.shields.io/badge/Linktree-Visit-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   <a href="https://instagram.com/xzrill17">
