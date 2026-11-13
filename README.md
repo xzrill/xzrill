@@ -22,7 +22,7 @@
   <a href="https://tiktok.com/@username_20298">
     <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="LINK_SOCIABUZZ">
+  <a href="https://sociabuzz.com/xzrill14">
     <img src="https://img.shields.io/badge/Sociabuzz-Support-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>
 </p>
