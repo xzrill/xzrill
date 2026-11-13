@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Zrill!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;Creative+Mind+%7C+Tech+Enthusiast;Keep+Learning+and+Building!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;Keep+Learning+and+Building!" />
 </p>
 
 <p align="center">
